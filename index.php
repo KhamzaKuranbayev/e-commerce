@@ -72,7 +72,7 @@
                 </ul>
             </div>
 
-            <a href=cart.php" class="btn navbar-btn btn-primary right">
+            <a href="cart.php" class="btn navbar-btn btn-primary right">
                 <i class="fa fa-shopping-cart"></i>
                 <span>4 Items In Your Cart</span>
             </a>
